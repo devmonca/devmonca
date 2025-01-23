@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, me chamo Gabriel</h2>
-<h3 align="center">👨‍💻 No caminho para ser Desenvolvedor Java || Engenheiro de Software (5° período)</h3>
+<h3 align="center">👨‍💻 No caminho para ser Desenvolvedor Java || Engenheiro de Software (6° período)</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/gabrieldev4)
 

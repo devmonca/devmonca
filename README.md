@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/gabrieldev4)
 
-- 📚Atualmente estou aprendendo **Java e Angular**
+- 📚Atualmente estou aprendendo **Java e Spring**
 - Pode me encontrar em **devmonca@gmail.com**
 
 💻 Tecnologias e ferramentas

@@ -15,6 +15,13 @@
 <div>
 <br>
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldev4&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldev4&hide_progress=true)
+<table align="center">
+  <tr>
+    <td>
+      <img width="350rem" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmonca&layout=compact&langs_count=20&theme=highcontrast" />
+    </td>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devmonca&theme=highcontrast" alt="Github Stats"/>
+    </td>
+  </tr>
+</table>

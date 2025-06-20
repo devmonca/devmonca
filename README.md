@@ -1,10 +1,9 @@
 <h1 align="center">👋 Olá, me chamo Gabriel</h2>
-<h3 align="center">👨‍💻 No caminho para ser Desenvolvedor Java || Engenheiro de Software (6° período)</h3>
+<h3 align="center">👨‍💻 Desenvolvedor Java || Engenheiro de Software </h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/gabrieldev4)
 
-- 📚Atualmente estou aprendendo **Java e Spring**
-- Pode me encontrar em **devmonca@gmail.com**
+- Para contato profissional pode me encontrar em **devmonca@gmail.com**
 
 💻 Tecnologias e ferramentas
 <div style="display: inline_block"><br>

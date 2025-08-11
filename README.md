@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, me chamo Gabriel</h2>
 <h3 align="center">👨‍💻 Desenvolvedor Java || Engenheiro de Software </h3>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/gabrieldev4)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/devmonca)
 
 - Para contato profissional pode me encontrar em **devmonca@gmail.com**
 

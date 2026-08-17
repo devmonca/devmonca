@@ -2,9 +2,7 @@
 <h3 align="center">👨‍💻 Desenvolvedor Java || Engenheiro de Software </h3>
 
 <p align="left">
-  Sou desenvolvedor com mais de 2 anos de experiência em desenvolvimento de Software  .
-  Minhas stacks principais são Java, Spring, Postgres, React e APIs RESTful.  
-  Possuo bacharelado em Engenharia de Software e tenho conhecimentos de inglês com destaque em leitura e escrita. <br><br>
+  Desenvolvedor com 3 anos focado em desenvolvimento. Sólida com experiência na construção de aplicações Full Stack, com foco principal em backend Java e Spring Boot para o desenvolvimento de APIs RESTful e no front-end, possuo sólida experiência com React e TypeScript, para a criação de interfaces de usuário modernas e responsivas, utilizando Tailwind CSS para estilização. Habilidade na modelagem e persistência de dados com PostgreSQL, na implementação de testes unitários com JUnit, e no uso de Redis para gerenciamento de cache. Além disso, tenho vivência prática em DevOps para automação de pipelines CI/CD com Docker e GitHub Actions, e em arquiteturas orientadas a mensagens com RabbitMQ. Busco ativamente minha primeira oportunidade como Desenvolvedor. <br><br>
  
 </p>
 
@@ -57,3 +55,14 @@ Tailwind CSS.<br>
 Tailwind CSS para uma site de alta conversão.<br>
   </p>
 </li>
+<li>
+  <p align="left">
+    <strong>🦁 Teledata | Gerador de script </strong><br>
+    Identifiquei que alguns processos poderiam ser automatizados pois exigiam esforço desnecessário e devido à forma manual de se fazer era mais propensa a erros. Então desenvolvi soluções que resolvessem os pontos de melhoria usando minhas habilidades de engenharia de software e desenvolvimento. Abaixo estão os projetos desenvolvidos:
+ <br><br>
+    <strong>Atividades:</strong><br>
+    • Desenvolvi uma automação de scripts operacionais que otimizou consideravelmente diversas demandas que exigiam preenchimento e edição manual de mensagens.<br>
+    • Desenvolvi uma automação de gestão de demandas operacionais que agregou rastreabilidade, auditoria e total controle sobre demandas que antes estavam sujeitas à falha humana por esquecimento.
+  </p>
+</li>
+
